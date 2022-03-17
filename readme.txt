@@ -1,33 +1,20 @@
-Free Download Source Code "ONLINE FACULTY CLEARANCE MANAGEMENT SYSTEM"
+#Abstract#
+It is a system that organizes and manages the drug use process in pharmacies by storing data and enabling functionality. The Pharmacy System not only helps organizes the Medicines Management, It also secures and does the fundamental processes in any pharmacy. ​
 
-FIRST Download
-
-1.XAMPP
-
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
-
-3"medical"
-
-4. Download the zip file/ download winrar
-
-5. Extract the file and copy "medical" folder
-
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name store
-
-6. Import store.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/medical
+This is a database management system that have been programmed to perform the various tasks required in the operation of a pharmacy. This system will improve the efficiency of the company and enable for the storing of digital records.​
 
 
-**LOGIN DETAILS**
+# Advantages #
+A. Most of the pharmacies faced problems such as insufficient service promotions, lack of coherence of pharmacy services in hospitals, poor drug information systems and the inconsistency of the pharmacy information management due to its manual processes, solving this becomes the benefit of implementing this project.​
+​
+B. Some of the key notable advantages are:​
 
-Admin
-user: admin@gmail.com
-pass: admin
+C. Recognizes Expired Items​
 
-****** https://www.campcodes.com/ ******
-Subcribe my Youtube Channel **** SerBermz ****
+D. Patients Medical History​
+
+E. Maintaining Digital Records​
+
+F. Influence Customer Shopping Behaviour​
+
+G. Maintain Separate Registers/Folders​
